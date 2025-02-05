@@ -47,8 +47,7 @@ h1{
         "YTFI" 738,
         "YTLC" 514,
         "YTUC" 712;
-    margin-top: 100px;
-    margin-left: 610px;
+    margin-left: 400px;
 }
 
 p{
@@ -72,18 +71,37 @@ p{
       "YTLC" 514,
       "YTUC" 712;
     margin-top: 50px;
-    margin-right: 20px;
+    margin-left: 100px;
 }
 
-button{
-    background-color: transparent;
-    color: #5B85AA;
+#sv{
+    margin-left: 600px;
+}
+
+#other{
+    margin-left: 675px;
     margin-top: 200px;
-    margin-left: 800px;
-    font-size: 40px;
-
 }
 
-#subText{
-    text-align: center;
+#mainText{
+    margin-left: 625px;
+}
+
+#slime{ 
+    width: 500px;
+    margin-left: 200px;
+}
+
+#rancher{
+    margin-left: 310px;
+}
+
+#street{
+    width: 500px;
+    margin-left: 500px;
+}
+
+#stext{
+    margin-left: 1280px;
+    margin-top: -80px;
 }
